@@ -1,0 +1,7 @@
+[desktop Entry]
+Name=gwallpaper-changer
+Exec=/usr/bin/gwallpaper-changer.py
+Comment=change wallpaper every so often
+Hidden=false
+Type=Application
+X-GNOME-Autostart-enabled=true
