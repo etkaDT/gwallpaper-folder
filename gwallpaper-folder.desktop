@@ -1,6 +1,6 @@
 [desktop Entry]
 Name=gwallpaper-changer
-Exec=/usr/bin/gwallpaper-changer.py
+Exec=/usr/bin/gwallpaper-folder.py
 Comment=change wallpaper every so often
 Hidden=false
 Type=Application
